@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sharvari Avhad
-- 🌱 I’m currently learning Data Science and Business Analytics from Mumbai University.
+- 🌱 I’m currently pursuing Data Science and Business Analytics from Mumbai University.
 - 💞️ I’m looking to collaborate on projects based on Data Analytics. 
 - 📫 Feel free to reach me via Email - sharvariahad5@gmail.com
 
